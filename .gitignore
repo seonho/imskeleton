@@ -1,0 +1,11 @@
+##---------------------------------------------------
+## Remove all files except the project file.
+##---------------------------------------------------
+
+*
+!.gitignore
+!imskeleton.m
+!private/skeletonSymbol.m
+!private/basicSkeleton.m
+!README.md
+!LICENSE
